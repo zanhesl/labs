@@ -1,0 +1,5 @@
+R:\osipov\labs\2\wpf7\WpfApplicationChart\obj\Debug\MainWindow.g.cs
+R:\osipov\labs\2\wpf7\WpfApplicationChart\obj\Debug\App.g.cs
+R:\osipov\labs\2\wpf7\WpfApplicationChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+R:\osipov\labs\2\wpf7\WpfApplicationChart\obj\Debug\WpfApplicationChart_MarkupCompile.cache
+R:\osipov\labs\2\wpf7\WpfApplicationChart\obj\Debug\WpfApplicationChart_MarkupCompile.lref
